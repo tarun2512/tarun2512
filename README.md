@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Tarun Madamanchi! <img src="https://media.giphy.com/media/6b8kW7l6lHzIk8nxUA/giphy.gif" width="50" align="center"></h2>
-<p><em>Software Enginner at <a href="https://unifytwin.com/home">UnifyTwin</a>
-</em></p>
+<p>Software Enginner at <a href="https://unifytwin.com/home">UnifyTwin</a>
+</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... <img src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="50" align="center"> 
