@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**tarun2512/tarun2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi, I'm Tarun Madamanchi! <img src="https://media.giphy.com/media/6b8kW7l6lHzIk8nxUA/giphy.gif" width="50" align="center"></h2>
+<p><em>Software Enginner at <a href="https://unifytwin.com/home">UnifyTwin</a>
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... <img src="https://media.giphy.com/media/nm6266UyRc2EnfpAo8/giphy.gif" width="50" align="center"> 
+
+```javascript
+tarun_madamanchi = {
+  "pronouns": "He" | "Him",
+  "askMeAbout": ["web dev", "tech", "photography"],
+  "workplace": {"Company": "UnifyTwin",
+              "Position": "Software Engineer"}
+  "code": ["Python", "C", "HTML", "CSS", "php", "Java"],
+  "databases": ["MongoDB", "PostgreSQL", "RedisDB", "KairosDB","MySql", "ArangoDB"]
+  "tools": ["Pycharm", "Android Studio"],
+  "misc": ["Firebase", "Heroku"]
+  "technologies": {
+    "backEnd": {
+        "python": ["flask", "FastApi", "open-cv", "tensorflow"]
+    },
+  "funFact": "There are two ways to write error-free programs; only the third one works"
+}
+```
+
+
+---
+
+⭐️ From [@tarun2512](https://github.com/tarun2512)
