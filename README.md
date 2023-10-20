@@ -9,16 +9,16 @@
 ```javascript
 tarun_madamanchi = {
   "pronouns": "He" | "Him",
-  "askMeAbout": ["web dev", "tech", "photography"],
+  "askMeAbout": ["Web Dev", "Tech", "Photography", "Travelling],
   "workplace": {"Company": "UnifyTwin",
               "Position": "Software Engineer"}
-  "code": ["Python", "C", "HTML", "CSS", "php", "Java"],
-  "databases": ["MongoDB", "PostgreSQL", "RedisDB", "KairosDB","MySql", "ArangoDB"]
-  "tools": ["Pycharm", "Android Studio"],
+  "code": ["Python", "C", "HTML", "CSS", "PHP", "Java"],
+  "databases": ["MongoDB", "PostgreSQL", "RedisDB", "KairosDB", "MySql", "ArangoDB"]
+  "tools": ["Pycharm", "Visual Studio"],
   "misc": ["Firebase", "Heroku"]
   "technologies": {
     "backEnd": {
-        "python": ["flask", "FastApi", "open-cv", "tensorflow"]
+        "python": ["flask", "FastApi"]
     },
   "funFact": "There are two ways to write error-free programs; only the third one works"
 }
