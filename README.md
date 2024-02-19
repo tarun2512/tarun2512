@@ -12,15 +12,18 @@ tarun_madamanchi = {
   "askMeAbout": ["Web Dev", "Tech", "Photography", "Travelling],
   "workplace": {"Company": "UnifyTwin",
               "Position": "Software Engineer"}
-  "code": ["Python", "C", "HTML", "CSS", "PHP", "Java"],
+  "code": ["Python", "C", "HTML", "CSS", "PHP", "JavaScript"],
   "databases": ["MongoDB", "PostgreSQL", "RedisDB", "KairosDB", "MySql", "ArangoDB"]
   "tools": ["Pycharm", "Visual Studio"],
   "misc": ["Firebase", "Heroku"]
   "technologies": {
-    "backEnd": {
-        "python": ["flask", "FastApi"]
+    "frontEnd": {
+        "JavaScript": ["ReactJS"],
     },
-  "funFact": "There are two ways to write error-free programs; only the third one works"
+    "backEnd": {
+        "python": ["flask", "FastApi"],
+    },
+  "funFact": "There are two ways to write error-free programs; only the third one works",
 }
 ```
 
