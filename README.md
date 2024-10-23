@@ -1,6 +1,6 @@
 
 <h2> Hi, I'm Tarun Madamanchi! <img src="https://media.giphy.com/media/6b8kW7l6lHzIk8nxUA/giphy.gif" width="50" align="center"></h2>
-<p>Software Enginner at <a href="https://unifytwin.com/home">UnifyTwin</a>
+<p>Software Enginner at <a href="https://www.rockwellautomation.com/en-us/products/software/factorytalk/datamosaix.html">FactoryTalk DataMosaix</a>
 </p>
 
 
@@ -10,7 +10,7 @@
 tarun_madamanchi = {
   "pronouns": "He" | "Him",
   "askMeAbout": ["Web Dev", "Tech", "Photography", "Travelling],
-  "workplace": {"Company": "UnifyTwin",
+  "workplace": {"Company": "Knowledge Lens - A Rockwell Automation Company",
               "Position": "Software Engineer"}
   "code": ["Python", "C", "HTML", "CSS", "PHP", "JavaScript"],
   "databases": ["MongoDB", "PostgreSQL", "RedisDB", "KairosDB", "MySql", "ArangoDB"]
